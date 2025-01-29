@@ -4,7 +4,7 @@ session_start(); // Start the session
 // Database connection settings
 $servername = "localhost";
 $username = "root";
-$password = "roomTWO2";
+$password = " ";
 $dbname = "construction_system";
 
 // Create connection
